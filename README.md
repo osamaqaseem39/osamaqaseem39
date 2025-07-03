@@ -6,16 +6,32 @@ I'm passionate about building scalable web applications, decentralized apps, and
 
 ---
 
-## 🔧 Tech Stack & Tools
+### 🔧 Tech Stack & Tools
 
-[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)  
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)  
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)  
-[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)  
-[![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)  
-[![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=ethereum&logoColor=white)](https://docs.soliditylang.org/)  
-[![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)  
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+<a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" height="28" />
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" style="margin-left:8px;">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" height="28" />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer" style="margin-left:8px;">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" height="28" />
+</a>
+<a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer" style="margin-left:8px;">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" height="28" />
+</a>
+<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noopener noreferrer" style="margin-left:8px;">
+  <img src="https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" height="28" />
+</a>
+<a href="https://docs.soliditylang.org/" target="_blank" rel="noopener noreferrer" style="margin-left:8px;">
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=ethereum&logoColor=white" alt="Solidity" height="28" />
+</a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer" style="margin-left:8px;">
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="28" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" style="margin-left:8px;">
+  <img src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28" />
+</a>
 
 ---
 
