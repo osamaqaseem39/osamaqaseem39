@@ -56,7 +56,7 @@ I'm passionate about building scalable web applications, decentralized apps, and
 
 ## 📈 GitHub Stats
 
-![GitHub stats]()  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaqaseem39&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaqaseem39&layout=compact&theme=radical)
 
 ---
