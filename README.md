@@ -70,11 +70,11 @@ Dedicated Full Stack Developer with **4+ years** of experience specializing in s
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osamaqaseem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osamaqaseem39&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaqaseem&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaqaseem39&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamaqaseem&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamaqaseem39&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
 
 ---
 
