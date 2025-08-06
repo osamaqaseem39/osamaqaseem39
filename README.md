@@ -73,7 +73,6 @@ Dedicated Full Stack Developer with **4+ years** of experience specializing in s
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osamaqaseem39&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaqaseem39&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamaqaseem39&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
 ![GitHub Streak](https://camo.githubusercontent.com/fc5da25b8c87a637f294674c0de47a658a91d79470d1ab8e0a12825b31a75454/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6f73616d6171617365656d3339267468656d653d7261646963616c26686964655f626f726465723d74727565266261636b67726f756e643d304431313137267374726f6b653d3538413646462672696e673d35384136464626666972653d353841364646266375727253747265616b4e756d3d384239343945266375727253747265616b4c6162656c3d38423934394526736964654e756d733d38423934394526736964654c6162656c733d3842393439452664617465733d384239343945)
 
 ---
